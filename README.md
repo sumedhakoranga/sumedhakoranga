@@ -14,7 +14,7 @@
 - 💬 Ask me about anything related to data.
 - 📫 How to reach me: sumedhakoranga511@gmail.com
 <!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: I love my boyfriend @aniketsharma00411 a lot, he is from different planet(MARS), i am from venus. -->
+<!-- - ⚡ Fun fact: -->
 
 
 
