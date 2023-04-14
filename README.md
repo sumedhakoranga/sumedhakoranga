@@ -43,7 +43,7 @@
 
 <!-- <img align="right" height="250" width="300" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-<!-- ![Sumedha Koranga's Github Stats](https://github-readme-stats.vercel.app/api?username=sumedhakoranga&count_private=true&show_icons=true&include_all_commits=true&theme=calm)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumedhakoranga&theme=calm"> -->
+![Sumedha Koranga's Github Stats](https://github-readme-stats.vercel.app/api?username=sumedhakoranga&count_private=true&show_icons=true&include_all_commits=true&theme=calm)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumedhakoranga&theme=calm">
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumedhakoranga&theme=calm) -->
