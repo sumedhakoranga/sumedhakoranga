@@ -4,16 +4,20 @@
 <!-- <p align='center'>I am a final-year engineering student at GBPUAT. In recent months, I have gained significant knowledge of Data Science and am currently participating in some related competitions to showcase my talent and gain experience. I have completed a 2-month internship at KLA Foods. -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumedhakoranga" alt="sumedhakoranga" /> </p>
 
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="right" width="350"/>
+
 ### 😉 About
 
-
 <!-- - 🔭 I’m currently working on ... -->
+
 - 🌱 &nbsp;I like to explore new technologies and develop software solutions.
 - 👯 &nbsp;I'm a full-stack Web Developer.
 - 💬&nbsp;Feel free to reach out to me for some interesting discussion.
 - 📫 How to reach me: sumedhakoranga511@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: -->
+
+
 
 
 
