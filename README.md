@@ -17,19 +17,6 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: -->
 
-
-
-
-
-</p><h2 align='center'>Connect with me  📫 </h2>
-<p align = 'center'>
- <a href = https://www.kaggle.com/sumedhakoranga target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/kaggle.svg height='30' weight='30'/></a>
- <a href = https://github.com/sumedhakoranga target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<a href = https://www.linkedin.com/in/sumedhakoranga/ target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
-<a href = https://twitter.com/sumedhakoranga target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
-<a href="mailto:sumedhakoranga511@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
-<a href="https://www.goodreads.com/sumedhakoranga" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/goodreads.svg height='30' weight='30'/></a>
-
 &emsp;
 <!--
 <p align="center">
@@ -46,6 +33,16 @@
 <a href="https://github.com/sumedhakoranga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumedhakoranga&count_private=true&show_icons=true&include_all_commits=true&theme=algolia"/>
 </a>
+</p>
+
+## 🤝🏻 &nbsp;Connect with Me
+<p align = 'center'>
+ <a href = https://www.kaggle.com/sumedhakoranga target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/kaggle.svg height='30' weight='30'/></a>
+ <a href = https://github.com/sumedhakoranga target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
+<a href = https://www.linkedin.com/in/sumedhakoranga/ target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+<a href = https://twitter.com/sumedhakoranga target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
+<a href="mailto:sumedhakoranga511@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
+<a href="https://www.goodreads.com/sumedhakoranga" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/goodreads.svg height='30' weight='30'/></a>
 </p>
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumedhakoranga&theme=calm"> -->
