@@ -8,10 +8,9 @@
 
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 &nbsp;I like to explore new technologies and develop software solutions.\
-- 👯 &nbsp;I'm a full-stack Web Developer.\
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬&nbsp;Feel free to reach out to me for some interesting discussion.\
+- 🌱 &nbsp;I like to explore new technologies and develop software solutions.
+- 👯 &nbsp;I'm a full-stack Web Developer.
+- 💬&nbsp;Feel free to reach out to me for some interesting discussion.
 - 📫 How to reach me: sumedhakoranga511@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: -->
