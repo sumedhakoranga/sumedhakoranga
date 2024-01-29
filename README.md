@@ -1,17 +1,17 @@
 <h1 align='center'>Hey 👋, This is Sumedha Koranga</h1>
 <p align = 'center'> 
 <h2 align='center'>About Me🤓</h2>
-<p align='center'>I am a final-year engineering student at GBPUAT. In recent months, I have gained significant knowledge of Data Science and am currently participating in some related competitions to showcase my talent and gain experience. I have completed a 2-month internship at KLA Foods.
+<!-- <p align='center'>I am a final-year engineering student at GBPUAT. In recent months, I have gained significant knowledge of Data Science and am currently participating in some related competitions to showcase my talent and gain experience. I have completed a 2-month internship at KLA Foods. -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumedhakoranga" alt="sumedhakoranga" /> </p>
 
 ### 😉 About
 
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning advance concepts of machine learning.
-- 👯 I’m looking to collaborate on kaggle and other AI competitions.
+- 🌱 &nbsp;I like to explore new technologies and develop software solutions.\
+- 👯 &nbsp;I'm a full-stack Web Developer.\
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about anything related to data.
+- 💬&nbsp;Feel free to reach out to me for some interesting discussion.\
 - 📫 How to reach me: sumedhakoranga511@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: -->
