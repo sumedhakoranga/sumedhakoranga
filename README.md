@@ -5,8 +5,6 @@
 
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="right" width="350"/>
 
-### 😉 About Me
-
 <!-- - 🔭 I’m currently working on ... -->
 
 - 🌱 &nbsp;I like to explore new technologies and develop software solutions.
@@ -62,7 +60,45 @@
 <a href = https://www.kaggle.com/sumedhakoranga target='_blank'> <img src="https://img.shields.io/badge/-Sumedha_Koranga-71ade3?style=flat&logo=Kaggle&logoColor=black"/></a>
 </p>
 
+## Featured Projects
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sumedhakoranga/Acme-Rockets">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumedhakoranga&theme=rose_pine&hide_border=true&show_icons=true&repo=Acme-Rockets" alt="Acme-Rockets" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sumedhakoranga/TutorAI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumedhakoranga&theme=rose_pine&hide_border=true&show_icons=true&repo=TutorAI" alt="Tutor AI" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sumedhakoranga/Sum-luxe">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumedhakoranga&theme=rose_pine&hide_border=true&show_icons=true&repo=Sum-luxe" alt="Shop Now" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sumedhakoranga/RipeVision.AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumedhakoranga&theme=rose_pine&hide_border=true&show_icons=true&repo=RipeVision.AI" alt="RipeVision.AI" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sumedhakoranga/weatherapp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumedhakoranga&theme=rose_pine&hide_border=true&show_icons=true&repo=weatherapp" alt="React Weather App" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sumedhakoranga/CommuniCue">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumedhakoranga&theme=rose_pine&hide_border=true&show_icons=true&repo=CommuniCue" alt="Chat Application" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumedhakoranga&theme=calm"> -->
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumedhakoranga&theme=calm) -->
+</div>
