@@ -3,7 +3,7 @@
 <h2 align='center'>About Me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumedhakoranga" alt="sumedhakoranga" /> </p>
 
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="right" width="350"/>
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="right" width="250"/>
 
 <!-- - 🔭 I’m currently working on ... -->
 
@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://github.com/sumedhakoranga">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumedhakoranga&theme=dracula&count_private=true&show_icons=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumedhakoranga&theme=rose_pine&count_private=true&show_icons=true&include_all_commits=true"/>
   </a>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumedhakoranga&langs_count=10&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>-->
 </div>
