@@ -50,15 +50,30 @@
 </div>
 
 ## 💭 &nbsp;Connect with Me
-<p align = 'center'>
-<a href="https://sumedha.info/" target='_blank'><img src="https://img.shields.io/badge/-sumedha.info-9d2525?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href = https://www.linkedin.com/in/sumedhakoranga/ target='_blank'> <img src="https://img.shields.io/badge/-Sumedha_Koranga-165fa0?style=flat&logo=Linkedin"/></a> 
-<a href="mailto:sumedhakoranga511@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-sumedhakoranga511%40gmail.com-c85016?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href = https://github.com/sumedhakoranga target='_blank'> <img src="https://img.shields.io/badge/-Sumedha_Koranga-817979?style=flat&logo=GitHub&logoColor=white"/></a>
-<a href = https://twitter.com/sumedhakoranga target='_blank'> <img src="https://img.shields.io/badge/-sumedhakoranga-272323?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.goodreads.com/sumedhakoranga" target="_blank"><img src="https://img.shields.io/badge/-Sumedha_Koranga-cfa218?style=flat&logo=Goodreads&logoColor=white"/></a>
-<a href = https://www.kaggle.com/sumedhakoranga target='_blank'> <img src="https://img.shields.io/badge/-Sumedha_Koranga-71ade3?style=flat&logo=Kaggle&logoColor=black"/></a>
+<p align='center'>
+  <a href="https://sumedha.info/" target='_blank'>
+    <img src="https://img.shields.io/badge/-sumedha.info-9d2525?style=flat&logo=Google-Chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sumedhakoranga/" target='_blank'>
+    <img src="https://img.shields.io/badge/-Sumedha_Koranga-165fa0?style=flat&logo=Linkedin"/>
+  </a>
+  <a href="mailto:sumedhakoranga511@gmail.com" target='_blank'>
+    <img src="https://img.shields.io/badge/-sumedhakoranga511%40gmail.com-c85016?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sumedhakoranga" target='_blank'>
+    <img src="https://img.shields.io/badge/-Sumedha_Koranga-817979?style=flat&logo=GitHub&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/sumedhakoranga" target='_blank'>
+    <img src="https://img.shields.io/badge/-sumedhakoranga-272323?style=flat&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.goodreads.com/sumedhakoranga" target='_blank'>
+    <img src="https://img.shields.io/badge/-Sumedha_Koranga-cfa218?style=flat&logo=Goodreads&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/sumedhakoranga" target='_blank'>
+    <img src="https://img.shields.io/badge/-Sumedha_Koranga-71ade3?style=flat&logo=Kaggle&logoColor=black"/>
+  </a>
 </p>
+
 
 ## Featured Projects
 <div align="center">
