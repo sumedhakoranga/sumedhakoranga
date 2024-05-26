@@ -51,7 +51,7 @@
 
 ## 💭 &nbsp;Connect with Me
 <p align='center'>
-  <a href="https://sumedha.info/" target='_blank' rel="noopener">
+  <a href="https://sumedha.info/" target='_blank'>
     <img src="https://img.shields.io/badge/-sumedha.info-9d2525?style=flat&logo=Google-Chrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sumedhakoranga/" target='_blank'>
