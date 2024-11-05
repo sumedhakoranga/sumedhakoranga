@@ -21,11 +21,12 @@
 <a href="https://github.com/sumedhakoranga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumedhakoranga&theme=dracula&count_private=true&show_icons=true&include_all_commits=true"/>
 </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumedhakoranga&theme=rose_pine&count_private=true&show_icons=true&include_all_commits=true"/>
 </p>-->
 
 <div align="center">
   <a href="https://github.com/sumedhakoranga">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumedhakoranga&theme=rose_pine&count_private=true&show_icons=true&include_all_commits=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumedhakoranga&theme=rose_pine&count_private=true&show_icons=true&v=1"/>
   </a>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumedhakoranga&langs_count=10&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>-->
 </div>
